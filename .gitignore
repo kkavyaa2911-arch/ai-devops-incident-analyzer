@@ -1,0 +1,6 @@
+amazon-cloudwatch-agent.deb
+app.log
+__pycache__/
+.env
+*.pem
+*.key
